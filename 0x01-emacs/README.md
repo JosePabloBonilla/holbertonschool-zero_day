@@ -1,0 +1,1 @@
+This project is about learning the most useful commands on emacs.
