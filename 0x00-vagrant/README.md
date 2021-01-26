@@ -1,0 +1,1 @@
+This is the README.md for 0x00-vagrant folder Hello Ubuntu mandatory task.
