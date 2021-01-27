@@ -1,1 +1,1 @@
-**Strong** __This file is mandatory in all Holberton School projects__
+__This is a great introductory project__
